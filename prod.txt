@@ -1,0 +1,1 @@
+common-rg	system=product3	env=production	domain=first_product	region=global	
